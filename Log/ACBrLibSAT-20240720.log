@@ -1,0 +1,516 @@
+20/07/24 18:05:55:568 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:568 - Travar
+20/07/24 18:05:55:570 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:570 - Destravar
+20/07/24 18:05:55:570 - TLibSATConfig.Ler - Feito
+20/07/24 18:05:55:570 - Destravar
+20/07/24 18:05:55:570 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI,  )
+20/07/24 18:05:55:571 -    ACBrLibSAT - 0.2.4.287
+20/07/24 18:05:55:571 - TACBrLibSAT.PrecisaCriptografar(Principal,TipoResposta)
+20/07/24 18:05:55:572 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:572 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+20/07/24 18:05:55:573 - TACBrLibSAT.PrecisaCriptografar(Principal,TipoResposta)
+20/07/24 18:05:55:573 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:574 - TLibSATConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+20/07/24 18:05:55:575 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:575 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:575 - Travar
+20/07/24 18:05:55:576 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:576 - Destravar
+20/07/24 18:05:55:576 -    SetRetorno(0, )
+20/07/24 18:05:55:577 - TACBrLibSAT.PrecisaCriptografar(SAT,Modelo)
+20/07/24 18:05:55:577 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:577 - LIB_ConfigGravarValor(SAT, Modelo, 1)
+20/07/24 18:05:55:579 - TACBrLibSAT.PrecisaCriptografar(SAT,Modelo)
+20/07/24 18:05:55:579 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:579 - TLibSATConfig.AjustarValor(tfGravar,SAT,Modelo,1)
+20/07/24 18:05:55:580 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:580 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:580 - Travar
+20/07/24 18:05:55:581 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:581 - Destravar
+20/07/24 18:05:55:581 -    SetRetorno(0, )
+20/07/24 18:05:55:582 - TACBrLibSAT.PrecisaCriptografar(SAT,CodigoDeAtivacao)
+20/07/24 18:05:55:582 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:582 - LIB_ConfigGravarValor(SAT, CodigoDeAtivacao, 00000000)
+20/07/24 18:05:55:584 - TACBrLibSAT.PrecisaCriptografar(SAT,CodigoDeAtivacao)
+20/07/24 18:05:55:584 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:584 - TLibSATConfig.AjustarValor(tfGravar,SAT,CodigoDeAtivacao,00000000)
+20/07/24 18:05:55:584 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:585 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:585 - Travar
+20/07/24 18:05:55:586 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:586 - Destravar
+20/07/24 18:05:55:586 -    SetRetorno(0, )
+20/07/24 18:05:55:586 - TACBrLibSAT.PrecisaCriptografar(SAT,SignAC)
+20/07/24 18:05:55:588 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:588 - LIB_ConfigGravarValor(SAT, SignAC, SGR-SAT SISTEMA DE GESTAO E RETAGUARDA DO SAT)
+20/07/24 18:05:55:588 - TACBrLibSAT.PrecisaCriptografar(SAT,SignAC)
+20/07/24 18:05:55:589 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:589 - TLibSATConfig.AjustarValor(tfGravar,SAT,SignAC,SGR-SAT SISTEMA DE GESTAO E RETAGUARDA DO SAT)
+20/07/24 18:05:55:590 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:590 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:590 - Travar
+20/07/24 18:05:55:590 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:591 - Destravar
+20/07/24 18:05:55:592 -    SetRetorno(0, )
+20/07/24 18:05:55:592 - TACBrLibSAT.PrecisaCriptografar(SAT,NomeDLL)
+20/07/24 18:05:55:592 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:593 - LIB_ConfigGravarValor(SAT, NomeDLL, c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Sat\dllsat.dll)
+20/07/24 18:05:55:593 - TACBrLibSAT.PrecisaCriptografar(SAT,NomeDLL)
+20/07/24 18:05:55:593 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:594 - TLibSATConfig.AjustarValor(tfGravar,SAT,NomeDLL,c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Sat\dllsat.dll)
+20/07/24 18:05:55:594 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:594 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:595 - Travar
+20/07/24 18:05:55:595 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:596 - Destravar
+20/07/24 18:05:55:596 -    SetRetorno(0, )
+20/07/24 18:05:55:596 - TACBrLibSAT.PrecisaCriptografar(SATConfig,ide_numeroCaixa)
+20/07/24 18:05:55:597 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:597 - LIB_ConfigGravarValor(SATConfig, ide_numeroCaixa, 1)
+20/07/24 18:05:55:597 - TACBrLibSAT.PrecisaCriptografar(SATConfig,ide_numeroCaixa)
+20/07/24 18:05:55:599 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:599 - TLibSATConfig.AjustarValor(tfGravar,SATConfig,ide_numeroCaixa,1)
+20/07/24 18:05:55:599 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:599 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:600 - Travar
+20/07/24 18:05:55:600 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:600 - Destravar
+20/07/24 18:05:55:601 -    SetRetorno(0, )
+20/07/24 18:05:55:601 - TACBrLibSAT.PrecisaCriptografar(SATConfig,emit_CNPJ)
+20/07/24 18:05:55:601 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:601 - LIB_ConfigGravarValor(SATConfig, emit_CNPJ, 27101611000182)
+20/07/24 18:05:55:603 - TACBrLibSAT.PrecisaCriptografar(SATConfig,emit_CNPJ)
+20/07/24 18:05:55:603 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:603 - TLibSATConfig.AjustarValor(tfGravar,SATConfig,emit_CNPJ,27101611000182)
+20/07/24 18:05:55:604 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:604 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:604 - Travar
+20/07/24 18:05:55:605 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:605 - Destravar
+20/07/24 18:05:55:606 -    SetRetorno(0, )
+20/07/24 18:05:55:607 - TACBrLibSAT.PrecisaCriptografar(SATConfig,emit_IE)
+20/07/24 18:05:55:607 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:607 - LIB_ConfigGravarValor(SATConfig, emit_IE, 111111111111)
+20/07/24 18:05:55:607 - TACBrLibSAT.PrecisaCriptografar(SATConfig,emit_IE)
+20/07/24 18:05:55:608 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:608 - TLibSATConfig.AjustarValor(tfGravar,SATConfig,emit_IE,111111111111)
+20/07/24 18:05:55:608 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:608 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:608 - Travar
+20/07/24 18:05:55:610 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:610 - Destravar
+20/07/24 18:05:55:610 -    SetRetorno(0, )
+20/07/24 18:05:55:611 - TACBrLibSAT.PrecisaCriptografar(SATConfig,emit_cRegTrib)
+20/07/24 18:05:55:611 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:611 - LIB_ConfigGravarValor(SATConfig, emit_cRegTrib, 1)
+20/07/24 18:05:55:612 - TACBrLibSAT.PrecisaCriptografar(SATConfig,emit_cRegTrib)
+20/07/24 18:05:55:612 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:613 - TLibSATConfig.AjustarValor(tfGravar,SATConfig,emit_cRegTrib,1)
+20/07/24 18:05:55:613 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:613 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:614 - Travar
+20/07/24 18:05:55:614 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:614 - Destravar
+20/07/24 18:05:55:615 -    SetRetorno(0, )
+20/07/24 18:05:55:615 - TACBrLibSAT.PrecisaCriptografar(SATConfig,ide_CNPJ)
+20/07/24 18:05:55:615 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:615 - LIB_ConfigGravarValor(SATConfig, ide_CNPJ, 1)
+20/07/24 18:05:55:616 - TACBrLibSAT.PrecisaCriptografar(SATConfig,ide_CNPJ)
+20/07/24 18:05:55:616 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:617 - TLibSATConfig.AjustarValor(tfGravar,SATConfig,ide_CNPJ,1)
+20/07/24 18:05:55:617 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:618 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:618 - Travar
+20/07/24 18:05:55:618 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:618 - Destravar
+20/07/24 18:05:55:618 -    SetRetorno(0, )
+20/07/24 18:05:55:619 - TACBrLibSAT.PrecisaCriptografar(SATConfig,ArqSchema)
+20/07/24 18:05:55:619 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:620 - LIB_ConfigGravarValor(SATConfig, ArqSchema, c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Schemas)
+20/07/24 18:05:55:621 - TACBrLibSAT.PrecisaCriptografar(SATConfig,ArqSchema)
+20/07/24 18:05:55:621 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:621 - TLibSATConfig.AjustarValor(tfGravar,SATConfig,ArqSchema,c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Schemas)
+20/07/24 18:05:55:622 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:622 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:622 - Travar
+20/07/24 18:05:55:623 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:623 - Destravar
+20/07/24 18:05:55:623 -    SetRetorno(0, )
+20/07/24 18:05:55:623 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SalvarCFe)
+20/07/24 18:05:55:624 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:624 - LIB_ConfigGravarValor(SATConfigArquivos, SalvarCFe, 1)
+20/07/24 18:05:55:624 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SalvarCFe)
+20/07/24 18:05:55:624 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:625 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,SalvarCFe,1)
+20/07/24 18:05:55:625 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:625 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:625 - Travar
+20/07/24 18:05:55:626 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:626 - Destravar
+20/07/24 18:05:55:626 -    SetRetorno(0, )
+20/07/24 18:05:55:627 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SalvarCFeCanc)
+20/07/24 18:05:55:627 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:627 - LIB_ConfigGravarValor(SATConfigArquivos, SalvarCFeCanc, 1)
+20/07/24 18:05:55:628 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SalvarCFeCanc)
+20/07/24 18:05:55:628 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:628 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,SalvarCFeCanc,1)
+20/07/24 18:05:55:629 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:629 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:629 - Travar
+20/07/24 18:05:55:630 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:630 - Destravar
+20/07/24 18:05:55:631 -    SetRetorno(0, )
+20/07/24 18:05:55:631 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorCNPJ)
+20/07/24 18:05:55:631 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:631 - LIB_ConfigGravarValor(SATConfigArquivos, SepararPorCNPJ, 1)
+20/07/24 18:05:55:632 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorCNPJ)
+20/07/24 18:05:55:633 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:633 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,SepararPorCNPJ,1)
+20/07/24 18:05:55:634 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:634 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:634 - Travar
+20/07/24 18:05:55:635 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:635 - Destravar
+20/07/24 18:05:55:636 -    SetRetorno(0, )
+20/07/24 18:05:55:636 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorModelo)
+20/07/24 18:05:55:637 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:637 - LIB_ConfigGravarValor(SATConfigArquivos, SepararPorModelo, 1)
+20/07/24 18:05:55:638 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorModelo)
+20/07/24 18:05:55:638 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:638 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,SepararPorModelo,1)
+20/07/24 18:05:55:638 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:639 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:639 - Travar
+20/07/24 18:05:55:639 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:639 - Destravar
+20/07/24 18:05:55:639 -    SetRetorno(0, )
+20/07/24 18:05:55:640 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorAno)
+20/07/24 18:05:55:641 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:642 - LIB_ConfigGravarValor(SATConfigArquivos, SepararPorAno, 1)
+20/07/24 18:05:55:642 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorAno)
+20/07/24 18:05:55:642 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:642 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,SepararPorAno,1)
+20/07/24 18:05:55:642 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:643 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:643 - Travar
+20/07/24 18:05:55:643 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:644 - Destravar
+20/07/24 18:05:55:644 -    SetRetorno(0, )
+20/07/24 18:05:55:644 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,PastaCFeVenda)
+20/07/24 18:05:55:645 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:645 - LIB_ConfigGravarValor(SATConfigArquivos, PastaCFeVenda, c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Arquivos)
+20/07/24 18:05:55:645 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,PastaCFeVenda)
+20/07/24 18:05:55:646 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:646 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,PastaCFeVenda,c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Arquivos)
+20/07/24 18:05:55:646 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:647 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:647 - Travar
+20/07/24 18:05:55:648 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:648 - Destravar
+20/07/24 18:05:55:649 -    SetRetorno(0, )
+20/07/24 18:05:55:649 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorAno)
+20/07/24 18:05:55:649 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:649 - LIB_ConfigGravarValor(SATConfigArquivos, SepararPorAno, 1)
+20/07/24 18:05:55:649 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorAno)
+20/07/24 18:05:55:649 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:650 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,SepararPorAno,1)
+20/07/24 18:05:55:650 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:650 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:650 - Travar
+20/07/24 18:05:55:651 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:651 - Destravar
+20/07/24 18:05:55:653 -    SetRetorno(0, )
+20/07/24 18:05:55:653 - TACBrLibSAT.PrecisaCriptografar(Principal,LogNivel)
+20/07/24 18:05:55:654 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:654 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+20/07/24 18:05:55:654 - TACBrLibSAT.PrecisaCriptografar(Principal,LogNivel)
+20/07/24 18:05:55:655 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:655 - TLibSATConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+20/07/24 18:05:55:655 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:656 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:656 - Travar
+20/07/24 18:05:55:657 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:657 - Destravar
+20/07/24 18:05:55:657 -    SetRetorno(0, )
+20/07/24 18:05:55:658 - TACBrLibSAT.PrecisaCriptografar(Principal,LogPath)
+20/07/24 18:05:55:658 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:658 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Log)
+20/07/24 18:05:55:659 - TACBrLibSAT.PrecisaCriptografar(Principal,LogPath)
+20/07/24 18:05:55:659 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:05:55:659 - TLibSATConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Log)
+20/07/24 18:05:55:660 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:05:55:660 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:05:55:660 - Travar
+20/07/24 18:05:55:661 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:05:55:662 - Destravar
+20/07/24 18:05:55:662 -    SetRetorno(0, )
+20/07/24 18:05:55:663 - SAT_InicializarSAT
+20/07/24 18:05:55:664 - Travar
+20/07/24 18:05:55:761 -    SetRetorno(0, )
+20/07/24 18:05:55:761 - Destravar
+20/07/24 18:06:00:361 - SAT_CriarEnviarCFe(c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\CFe.ini )
+20/07/24 18:06:00:362 - Travar
+20/07/24 18:06:00:392 -    MoverStringParaPChar. StrLen:1535, BufLen:30600
+20/07/24 18:06:00:392 -    SetRetorno(0, { "ENVIO" : { "Arquivo" : "", "CodigoDeRetorno" : 9999, "NumeroSessao" : 267463, "Resultado" : "267463|9999|SAT Desconectado", "RetornoStr" : "267463|9999|SAT Desconectado", "XML" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?><CFe><infCFe versaoDadosEnt=\"0.08\"><ide><CNPJ>16716114000172</CNPJ><signAC>SGR-SAT SISTEMA DE GESTAO E RETAGUARDA DO SAT</signAC><numeroCaixa>001</numeroCaixa></ide><emit><CNPJ>27101611000182</CNPJ><IE>111111111111</IE><IM>111111</IM><cRegTribISSQN>1</cRegTribISSQN><indRatISSQN>S</indRatISSQN></emit><dest></dest><entrega><xLgr>Rua Cel. Aureliano de Camargo</xLgr><nro>973</nro><xBairro>Centro</xBairro><xMun>Tatui</xMun><UF>SP</UF></entrega><det nItem=\"1\"><prod><cProd>1189</cProd><xProd>OVO VERMELHO</xProd><NCM>04072100</NCM><CFOP>5102</CFOP><uCom>DZ</uCom><qCom>510.0000</qCom><vUnCom>2.70</vUnCom><indRegra>A</indRegra><obsFiscoDet xCampoDet=\"Teste\"><xTextoDet>Texto Teste</xTextoDet></obsFiscoDet></prod><imposto><vItem12741>137.00</vItem12741><ICMS><ICMS00><Orig>0</Orig><CST>00</CST><pICMS>0.00</pICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>0.00</vBC><pPIS>0.0000</pPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>0.00</vBC><pCOFINS>0.0000</pCOFINS></COFINSAliq></COFINS></imposto><infAdProd>Teste de Produto</infAdProd></det><total><DescAcrEntr><vDescSubtot>7.00</vDescSubtot></DescAcrEntr><vCFeLei12741>137.00</vCFeLei12741></total><pgto><MP><cMP>01</cMP><vMP>1400.00</vMP></MP></pgto><infAdic><infCpl>Teste emissao CFe/SAT</infCpl></infAdic></infCFe></CFe>", "nCFe" : 0 } })
+20/07/24 18:06:00:392 - Destravar
+20/07/24 18:10:51:880 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:880 - Travar
+20/07/24 18:10:51:880 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:881 - Destravar
+20/07/24 18:10:51:881 - TLibSATConfig.Ler - Feito
+20/07/24 18:10:51:881 - Destravar
+20/07/24 18:10:51:881 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI,  )
+20/07/24 18:10:51:883 -    ACBrLibSAT - 0.2.4.287
+20/07/24 18:10:51:883 - TACBrLibSAT.PrecisaCriptografar(Principal,TipoResposta)
+20/07/24 18:10:51:884 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:884 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+20/07/24 18:10:51:884 - TACBrLibSAT.PrecisaCriptografar(Principal,TipoResposta)
+20/07/24 18:10:51:885 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:885 - TLibSATConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+20/07/24 18:10:51:885 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:885 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:886 - Travar
+20/07/24 18:10:51:887 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:887 - Destravar
+20/07/24 18:10:51:887 -    SetRetorno(0, )
+20/07/24 18:10:51:887 - TACBrLibSAT.PrecisaCriptografar(SAT,Modelo)
+20/07/24 18:10:51:888 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:888 - LIB_ConfigGravarValor(SAT, Modelo, 1)
+20/07/24 18:10:51:888 - TACBrLibSAT.PrecisaCriptografar(SAT,Modelo)
+20/07/24 18:10:51:888 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:888 - TLibSATConfig.AjustarValor(tfGravar,SAT,Modelo,1)
+20/07/24 18:10:51:890 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:890 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:890 - Travar
+20/07/24 18:10:51:890 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:891 - Destravar
+20/07/24 18:10:51:891 -    SetRetorno(0, )
+20/07/24 18:10:51:891 - TACBrLibSAT.PrecisaCriptografar(SAT,CodigoDeAtivacao)
+20/07/24 18:10:51:891 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:892 - LIB_ConfigGravarValor(SAT, CodigoDeAtivacao, 00000000)
+20/07/24 18:10:51:892 - TACBrLibSAT.PrecisaCriptografar(SAT,CodigoDeAtivacao)
+20/07/24 18:10:51:892 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:893 - TLibSATConfig.AjustarValor(tfGravar,SAT,CodigoDeAtivacao,00000000)
+20/07/24 18:10:51:893 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:894 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:894 - Travar
+20/07/24 18:10:51:895 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:895 - Destravar
+20/07/24 18:10:51:895 -    SetRetorno(0, )
+20/07/24 18:10:51:896 - TACBrLibSAT.PrecisaCriptografar(SAT,SignAC)
+20/07/24 18:10:51:896 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:896 - LIB_ConfigGravarValor(SAT, SignAC, SGR-SAT SISTEMA DE GESTAO E RETAGUARDA DO SAT)
+20/07/24 18:10:51:896 - TACBrLibSAT.PrecisaCriptografar(SAT,SignAC)
+20/07/24 18:10:51:897 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:897 - TLibSATConfig.AjustarValor(tfGravar,SAT,SignAC,SGR-SAT SISTEMA DE GESTAO E RETAGUARDA DO SAT)
+20/07/24 18:10:51:898 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:898 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:898 - Travar
+20/07/24 18:10:51:898 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:899 - Destravar
+20/07/24 18:10:51:899 -    SetRetorno(0, )
+20/07/24 18:10:51:900 - TACBrLibSAT.PrecisaCriptografar(SAT,NomeDLL)
+20/07/24 18:10:51:900 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:900 - LIB_ConfigGravarValor(SAT, NomeDLL, c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Sat\dllsat.dll)
+20/07/24 18:10:51:900 - TACBrLibSAT.PrecisaCriptografar(SAT,NomeDLL)
+20/07/24 18:10:51:900 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:902 - TLibSATConfig.AjustarValor(tfGravar,SAT,NomeDLL,c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Sat\dllsat.dll)
+20/07/24 18:10:51:903 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:903 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:904 - Travar
+20/07/24 18:10:51:904 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:905 - Destravar
+20/07/24 18:10:51:905 -    SetRetorno(0, )
+20/07/24 18:10:51:905 - TACBrLibSAT.PrecisaCriptografar(SATConfig,ide_numeroCaixa)
+20/07/24 18:10:51:906 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:906 - LIB_ConfigGravarValor(SATConfig, ide_numeroCaixa, 1)
+20/07/24 18:10:51:907 - TACBrLibSAT.PrecisaCriptografar(SATConfig,ide_numeroCaixa)
+20/07/24 18:10:51:907 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:907 - TLibSATConfig.AjustarValor(tfGravar,SATConfig,ide_numeroCaixa,1)
+20/07/24 18:10:51:908 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:908 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:908 - Travar
+20/07/24 18:10:51:909 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:909 - Destravar
+20/07/24 18:10:51:909 -    SetRetorno(0, )
+20/07/24 18:10:51:910 - TACBrLibSAT.PrecisaCriptografar(SATConfig,emit_CNPJ)
+20/07/24 18:10:51:910 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:910 - LIB_ConfigGravarValor(SATConfig, emit_CNPJ, 27101611000182)
+20/07/24 18:10:51:911 - TACBrLibSAT.PrecisaCriptografar(SATConfig,emit_CNPJ)
+20/07/24 18:10:51:912 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:912 - TLibSATConfig.AjustarValor(tfGravar,SATConfig,emit_CNPJ,27101611000182)
+20/07/24 18:10:51:912 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:912 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:912 - Travar
+20/07/24 18:10:51:913 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:913 - Destravar
+20/07/24 18:10:51:913 -    SetRetorno(0, )
+20/07/24 18:10:51:914 - TACBrLibSAT.PrecisaCriptografar(SATConfig,emit_IE)
+20/07/24 18:10:51:914 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:914 - LIB_ConfigGravarValor(SATConfig, emit_IE, 111111111111)
+20/07/24 18:10:51:914 - TACBrLibSAT.PrecisaCriptografar(SATConfig,emit_IE)
+20/07/24 18:10:51:915 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:915 - TLibSATConfig.AjustarValor(tfGravar,SATConfig,emit_IE,111111111111)
+20/07/24 18:10:51:915 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:915 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:916 - Travar
+20/07/24 18:10:51:916 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:916 - Destravar
+20/07/24 18:10:51:917 -    SetRetorno(0, )
+20/07/24 18:10:51:917 - TACBrLibSAT.PrecisaCriptografar(SATConfig,emit_cRegTrib)
+20/07/24 18:10:51:917 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:918 - LIB_ConfigGravarValor(SATConfig, emit_cRegTrib, 1)
+20/07/24 18:10:51:918 - TACBrLibSAT.PrecisaCriptografar(SATConfig,emit_cRegTrib)
+20/07/24 18:10:51:918 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:918 - TLibSATConfig.AjustarValor(tfGravar,SATConfig,emit_cRegTrib,1)
+20/07/24 18:10:51:919 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:919 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:919 - Travar
+20/07/24 18:10:51:920 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:920 - Destravar
+20/07/24 18:10:51:920 -    SetRetorno(0, )
+20/07/24 18:10:51:920 - TACBrLibSAT.PrecisaCriptografar(SATConfig,ide_CNPJ)
+20/07/24 18:10:51:920 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:921 - LIB_ConfigGravarValor(SATConfig, ide_CNPJ, 1)
+20/07/24 18:10:51:921 - TACBrLibSAT.PrecisaCriptografar(SATConfig,ide_CNPJ)
+20/07/24 18:10:51:921 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:921 - TLibSATConfig.AjustarValor(tfGravar,SATConfig,ide_CNPJ,1)
+20/07/24 18:10:51:922 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:922 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:922 - Travar
+20/07/24 18:10:51:924 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:924 - Destravar
+20/07/24 18:10:51:924 -    SetRetorno(0, )
+20/07/24 18:10:51:924 - TACBrLibSAT.PrecisaCriptografar(SATConfig,ArqSchema)
+20/07/24 18:10:51:925 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:925 - LIB_ConfigGravarValor(SATConfig, ArqSchema, c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Schemas)
+20/07/24 18:10:51:925 - TACBrLibSAT.PrecisaCriptografar(SATConfig,ArqSchema)
+20/07/24 18:10:51:925 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:925 - TLibSATConfig.AjustarValor(tfGravar,SATConfig,ArqSchema,c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Schemas)
+20/07/24 18:10:51:926 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:926 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:926 - Travar
+20/07/24 18:10:51:926 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:927 - Destravar
+20/07/24 18:10:51:927 -    SetRetorno(0, )
+20/07/24 18:10:51:927 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SalvarCFe)
+20/07/24 18:10:51:927 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:928 - LIB_ConfigGravarValor(SATConfigArquivos, SalvarCFe, 1)
+20/07/24 18:10:51:928 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SalvarCFe)
+20/07/24 18:10:51:928 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:928 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,SalvarCFe,1)
+20/07/24 18:10:51:928 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:930 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:930 - Travar
+20/07/24 18:10:51:930 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:930 - Destravar
+20/07/24 18:10:51:931 -    SetRetorno(0, )
+20/07/24 18:10:51:931 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SalvarCFeCanc)
+20/07/24 18:10:51:931 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:932 - LIB_ConfigGravarValor(SATConfigArquivos, SalvarCFeCanc, 1)
+20/07/24 18:10:51:932 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SalvarCFeCanc)
+20/07/24 18:10:51:933 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:933 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,SalvarCFeCanc,1)
+20/07/24 18:10:51:933 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:933 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:934 - Travar
+20/07/24 18:10:51:935 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:935 - Destravar
+20/07/24 18:10:51:936 -    SetRetorno(0, )
+20/07/24 18:10:51:936 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorCNPJ)
+20/07/24 18:10:51:936 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:936 - LIB_ConfigGravarValor(SATConfigArquivos, SepararPorCNPJ, 1)
+20/07/24 18:10:51:937 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorCNPJ)
+20/07/24 18:10:51:937 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:937 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,SepararPorCNPJ,1)
+20/07/24 18:10:51:938 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:938 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:938 - Travar
+20/07/24 18:10:51:939 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:939 - Destravar
+20/07/24 18:10:51:940 -    SetRetorno(0, )
+20/07/24 18:10:51:940 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorModelo)
+20/07/24 18:10:51:940 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:940 - LIB_ConfigGravarValor(SATConfigArquivos, SepararPorModelo, 1)
+20/07/24 18:10:51:941 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorModelo)
+20/07/24 18:10:51:942 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:942 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,SepararPorModelo,1)
+20/07/24 18:10:51:943 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:943 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:944 - Travar
+20/07/24 18:10:51:944 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:944 - Destravar
+20/07/24 18:10:51:945 -    SetRetorno(0, )
+20/07/24 18:10:51:945 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorAno)
+20/07/24 18:10:51:945 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:945 - LIB_ConfigGravarValor(SATConfigArquivos, SepararPorAno, 1)
+20/07/24 18:10:51:946 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorAno)
+20/07/24 18:10:51:947 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:947 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,SepararPorAno,1)
+20/07/24 18:10:51:947 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:947 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:948 - Travar
+20/07/24 18:10:51:948 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:948 - Destravar
+20/07/24 18:10:51:948 -    SetRetorno(0, )
+20/07/24 18:10:51:950 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,PastaCFeVenda)
+20/07/24 18:10:51:950 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:950 - LIB_ConfigGravarValor(SATConfigArquivos, PastaCFeVenda, c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Arquivos)
+20/07/24 18:10:51:951 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,PastaCFeVenda)
+20/07/24 18:10:51:952 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:952 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,PastaCFeVenda,c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Arquivos)
+20/07/24 18:10:51:952 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:953 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:953 - Travar
+20/07/24 18:10:51:953 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:954 - Destravar
+20/07/24 18:10:51:954 -    SetRetorno(0, )
+20/07/24 18:10:51:954 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorAno)
+20/07/24 18:10:51:954 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:955 - LIB_ConfigGravarValor(SATConfigArquivos, SepararPorAno, 1)
+20/07/24 18:10:51:955 - TACBrLibSAT.PrecisaCriptografar(SATConfigArquivos,SepararPorAno)
+20/07/24 18:10:51:955 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:955 - TLibSATConfig.AjustarValor(tfGravar,SATConfigArquivos,SepararPorAno,1)
+20/07/24 18:10:51:955 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:956 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:956 - Travar
+20/07/24 18:10:51:956 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:956 - Destravar
+20/07/24 18:10:51:956 -    SetRetorno(0, )
+20/07/24 18:10:51:958 - TACBrLibSAT.PrecisaCriptografar(Principal,LogNivel)
+20/07/24 18:10:51:958 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:958 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+20/07/24 18:10:51:958 - TACBrLibSAT.PrecisaCriptografar(Principal,LogNivel)
+20/07/24 18:10:51:959 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:959 - TLibSATConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+20/07/24 18:10:51:959 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:959 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:960 - Travar
+20/07/24 18:10:51:960 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:960 - Destravar
+20/07/24 18:10:51:961 -    SetRetorno(0, )
+20/07/24 18:10:51:961 - TACBrLibSAT.PrecisaCriptografar(Principal,LogPath)
+20/07/24 18:10:51:961 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:961 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Log)
+20/07/24 18:10:51:962 - TACBrLibSAT.PrecisaCriptografar(Principal,LogPath)
+20/07/24 18:10:51:962 - TACBrLibSAT.PrecisaCriptografar - Feito Result: False
+20/07/24 18:10:51:962 - TLibSATConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Log)
+20/07/24 18:10:51:963 - TLibSATConfig.AjustarValor - Feito
+20/07/24 18:10:51:963 - TLibSATConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\ACBrLib.INI
+20/07/24 18:10:51:965 - Travar
+20/07/24 18:10:51:965 - TLibSATConfig.AplicarConfiguracoes - Feito
+20/07/24 18:10:51:965 - Destravar
+20/07/24 18:10:51:966 -    SetRetorno(0, )
+20/07/24 18:10:51:966 - SAT_InicializarSAT
+20/07/24 18:10:51:966 - Travar
+20/07/24 18:10:51:968 -    SetRetorno(0, )
+20/07/24 18:10:51:968 - Destravar
+20/07/24 18:10:54:403 - SAT_ImprimirExtratoVenda(C:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Arquivos\27101611000182\CFe\2024\AD41240727101611000182599000198240003840547006.xml,[144][144][127][255][173][SOH] )
+20/07/24 18:10:54:405 - Travar
+20/07/24 18:10:54:405 - Carregando arquivo xml [C:\Users\Particular\OneDrive\ProjetosPython\SAT-NoGUI\Arquivos\27101611000182\CFe\2024\AD41240727101611000182599000198240003840547006.xml]
+20/07/24 18:11:51:226 -    SetRetorno(0, )
+20/07/24 18:11:51:227 - FinalizarImpressao - Iniciado
+20/07/24 18:11:51:227 - FinalizarImpressao - Feito
+20/07/24 18:11:51:228 - Destravar
